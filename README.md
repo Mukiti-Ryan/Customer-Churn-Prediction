@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction
-A Machine Learning Model Trained to Predict Customer Churn Built Using Python, Streamlit and Docker
+A Machine Learning Model Trained to Predict Customer Churn Built Using Python and Streamlit
 
-This is the initial stage for the dashboard. The 
+This is the initial stage for the dashboard.
 
 After running the command `streamlit run stream_app.py`, this is the first page that will be displayed in the browser.
 <img width="1391" alt="Home_page" src="https://user-images.githubusercontent.com/87067381/224629245-5a818a21-df1a-48f9-a375-5770d7334093.png">
